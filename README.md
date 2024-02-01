@@ -1,6 +1,6 @@
 ## Sandfall
 
-![Sandfall](screenshots/screenshot000.png "$(Game Title)")
+![Sandfall](screenshots/001.png)
 
 ### Description
 
